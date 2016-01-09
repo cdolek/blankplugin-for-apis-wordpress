@@ -5,7 +5,7 @@ The Blank Wordpress Plugin for APIs is simple starter plugin, aiming to help you
 Features
 --------
 
-* Adds an api call endpoint to your website **http://yourwebsite/blankplugin_api/__action__/__keyword__/**
+* Adds an api call endpoint to your website **http://yourwebsiteurl/blankplugin_api/__action__/__keyword__/**
 * /__action__/ and /__keyword__/ can be any variable and they can be used in your init fn
 
 Installation
@@ -15,7 +15,7 @@ Installation
 
 Usage Example
 --------
-* Try [http://yourwebsite/blankplugin_api/example/something/](http://yourwebsite/blankplugin_api/example/something/) for a json output.
+* Try [http://yourwebsiteurl/blankplugin_api/example/something/](http://yourwebsiteurl/blankplugin_api/example/something/) for a json output.
 
 Contributing
 ------------

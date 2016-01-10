@@ -39,5 +39,5 @@ Authors
 License
 -------
 
-Copyright 2015 [Cenk Dölek](https://cenkdolek.com)
+Copyright 2016 [Cenk Dölek](https://cenkdolek.com)
 Released under the MIT License
